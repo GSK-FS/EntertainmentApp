@@ -1,0 +1,187 @@
+{
+    "Movies": [
+        {
+            "Trending": [
+                
+                {
+                    "image": "image_movie_xmen.png",
+                    "name": "X-MEN",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_1917.png",
+                    "name": "1917",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_theHill.png",
+                    "name": "The Hill",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_noTimeToDie.png",
+                    "name": "No Time To Die",
+                    "viewsNumber": "2 M"
+                }
+                
+            ]
+        },
+        {
+            "Previews": [
+                
+                {
+                    "image": "image_movie_avengers.png",
+                    "name": "Avengers",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_AvengersIron.png",
+                    "name": "Avengers",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_marvelCaptin.png",
+                    "name": "Captin",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_xmen.png",
+                    "name": "X-MEN",
+                    "viewsNumber": "2 M"
+                }
+                
+            ]
+        },
+        {
+            "Today_Trending": [
+                
+                {
+                    "image": "image_movie_xmen.png",
+                    "name": "X-MEN",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_1917.png",
+                    "name": "1917",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_theHill.png",
+                    "name": "The Hill",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_noTimeToDie.png",
+                    "name": "No Time To Die",
+                    "viewsNumber": "2 M"
+                }
+                
+            ]
+        },
+        {
+            "Podcast": [
+                
+                {
+                    "image": "image_podcast.png",
+                    "name": "Podcast Name",
+                    "viewsNumber": "2 K"
+                },
+                {
+                    "image": "image_podcast.png",
+                    "name": "Podcast Name",
+                    "viewsNumber": "2 K"
+                },
+                {
+                    "image": "image_podcast.png",
+                    "name": "Podcast Name",
+                    "viewsNumber": "2 K"
+                },
+                {
+                    "image": "image_podcast.png",
+                    "name": "Podcast Name",
+                    "viewsNumber": "2 K"
+                }
+                
+            ]
+        },
+        {
+            "For_You": [
+                
+                {
+                    "image": "image_movie_avengers.png",
+                    "name": "Avengers",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_AvengersIron.png",
+                    "name": "Avengers",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_marvelCaptin.png",
+                    "name": "Captin",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_xmen.png",
+                    "name": "X-MEN",
+                    "viewsNumber": "2 M"
+                }
+                
+            ]
+        },
+        {
+            "Listen_Again": [
+                
+                {
+                    "image": "image_movie_xmen.png",
+                    "name": "Badshah",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_1917.png",
+                    "name": "Badshah",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_theHill.png",
+                    "name": "Badshah",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_noTimeToDie.png",
+                    "name": "Badshah",
+                    "viewsNumber": "2 M"
+                }
+                
+            ]
+        },
+        {
+            "Action_Movies": [
+                
+                {
+                    "image": "image_movie_xmen.png",
+                    "name": "X-MEN",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_1917.png",
+                    "name": "1917",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_theHill.png",
+                    "name": "The Hill",
+                    "viewsNumber": "2 M"
+                },
+                {
+                    "image": "image_movie_noTimeToDie.png",
+                    "name": "No Time To Die",
+                    "viewsNumber": "2 M"
+                }
+                
+            ]
+            
+        }
+    ]
+}

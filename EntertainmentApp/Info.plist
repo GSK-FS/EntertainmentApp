@@ -21,5 +21,16 @@
 			</array>
 		</dict>
 	</dict>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Aspira Bold.otf</string>
+		<string>Aspira Demi.otf</string>
+		<string>Aspira Medium.otf</string>
+		<string>Aspira Regular.otf</string>
+		<string>Aspira Light.otf</string>
+		<string>Aspira Thin.otf</string>
+	</array>
 </dict>
 </plist>

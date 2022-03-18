@@ -7,6 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F40BB26827E2A75C009F2861 /* CellDesignDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40BB26727E2A75C009F2861 /* CellDesignDelegate.swift */; };
+		F40BB26A27E31C63009F2861 /* AA_StyleCCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40BB26927E31C63009F2861 /* AA_StyleCCell.swift */; };
+		F40BB26C27E42D84009F2861 /* B_ScrollingCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40BB26B27E42D84009F2861 /* B_ScrollingCollectionCell.swift */; };
+		F40BB26E27E42E01009F2861 /* A_StyleScrollingCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40BB26D27E42E01009F2861 /* A_StyleScrollingCollectionCell.swift */; };
+		F4228F6327DF226800FA324F /* A_ScrollingCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4228F6227DF226800FA324F /* A_ScrollingCollectionViewCell.swift */; };
+		F4228F6527DF277000FA324F /* ViewModelCCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4228F6427DF277000FA324F /* ViewModelCCell.swift */; };
+		F4228F6727DF299B00FA324F /* TempData.json in Resources */ = {isa = PBXBuildFile; fileRef = F4228F6627DF299B00FA324F /* TempData.json */; };
+		F4228F6927DF387F00FA324F /* HeaderCollectionViewSuplimentry.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4228F6827DF387F00FA324F /* HeaderCollectionViewSuplimentry.swift */; };
+		F4228F6D27DFF77800FA324F /* TabBarViewCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4228F6C27DFF77800FA324F /* TabBarViewCollection.swift */; };
+		F4228F6F27DFF95400FA324F /* TabBarCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4228F6E27DFF95400FA324F /* TabBarCollectionViewCell.swift */; };
+		F4228F7127E0102200FA324F /* SliderPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4228F7027E0102200FA324F /* SliderPageView.swift */; };
+		F4228F7327E09AEF00FA324F /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4228F7227E09AEE00FA324F /* ModelData.swift */; };
+		F4228F8827E1CAF600FA324F /* Services.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4228F8727E1CAF500FA324F /* Services.swift */; };
+		F4228F8A27E1E2D600FA324F /* Initialize.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4228F8927E1E2D600FA324F /* Initialize.swift */; };
+		F482326527DED92B00FA8B20 /* UIFontExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F482326427DED92B00FA8B20 /* UIFontExtension.swift */; };
+		F482326727DED9B000FA8B20 /* Aspira Demi.otf in Resources */ = {isa = PBXBuildFile; fileRef = F482326627DED9B000FA8B20 /* Aspira Demi.otf */; };
+		F482326927DEDA5C00FA8B20 /* Aspira Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = F482326827DEDA5C00FA8B20 /* Aspira Bold.otf */; };
+		F482326E27DEDA9100FA8B20 /* Aspira Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = F482326A27DEDA9100FA8B20 /* Aspira Regular.otf */; };
+		F482326F27DEDA9100FA8B20 /* Aspira Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = F482326B27DEDA9100FA8B20 /* Aspira Light.otf */; };
+		F482327027DEDA9100FA8B20 /* Aspira Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = F482326C27DEDA9100FA8B20 /* Aspira Thin.otf */; };
+		F482327127DEDA9100FA8B20 /* Aspira Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = F482326D27DEDA9100FA8B20 /* Aspira Medium.otf */; };
+		F482327327DEE03200FA8B20 /* A_StyleCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F482327227DEE03200FA8B20 /* A_StyleCollectionViewCell.swift */; };
+		F482327527DEE06000FA8B20 /* B_StyleCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F482327427DEE06000FA8B20 /* B_StyleCollectionViewCell.swift */; };
+		F482327727DEE07100FA8B20 /* C_StyleCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F482327627DEE07100FA8B20 /* C_StyleCollectionViewCell.swift */; };
+		F4AE34D127DC7D5400AC9D05 /* IntExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4AE34D027DC7D5400AC9D05 /* IntExtension.swift */; };
+		F4AE34D327DC7EF100AC9D05 /* ViewModelDashboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4AE34D227DC7EF100AC9D05 /* ViewModelDashboard.swift */; };
 		F4CB01B627D92F01002D15BD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CB01B527D92F01002D15BD /* AppDelegate.swift */; };
 		F4CB01B827D92F01002D15BD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CB01B727D92F01002D15BD /* SceneDelegate.swift */; };
 		F4CB01BA27D92F01002D15BD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CB01B927D92F01002D15BD /* ViewController.swift */; };
@@ -16,6 +42,14 @@
 		F4CB01CD27D92F08002D15BD /* EntertainmentAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CB01CC27D92F08002D15BD /* EntertainmentAppTests.swift */; };
 		F4CB01D727D92F08002D15BD /* EntertainmentAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CB01D627D92F08002D15BD /* EntertainmentAppUITests.swift */; };
 		F4CB01D927D92F08002D15BD /* EntertainmentAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CB01D827D92F08002D15BD /* EntertainmentAppUITestsLaunchTests.swift */; };
+		F4CB01F327D931F5002D15BD /* UIColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CB01F227D931F5002D15BD /* UIColorExtension.swift */; };
+		F4CB01FB27D9348E002D15BD /* BaseCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CB01FA27D9348E002D15BD /* BaseCollectionViewCell.swift */; };
+		F4CB01FD27D934B1002D15BD /* BaseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CB01FC27D934B1002D15BD /* BaseTableViewCell.swift */; };
+		F4CB01FF27D934F1002D15BD /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CB01FE27D934F1002D15BD /* BaseViewController.swift */; };
+		F4CC264B27DCEB8A004A7BEB /* ButtonTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CC264A27DCEB8A004A7BEB /* ButtonTabBar.swift */; };
+		F4CC264D27DD0C3B004A7BEB /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CC264C27DD0C3B004A7BEB /* ViewModel.swift */; };
+		F4CC264F27DDC26E004A7BEB /* UIViewCustom.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CC264E27DDC26E004A7BEB /* UIViewCustom.swift */; };
+		F4CC265127DE49F2004A7BEB /* LabelCustom.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CC265027DE49F2004A7BEB /* LabelCustom.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +70,32 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F40BB26727E2A75C009F2861 /* CellDesignDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellDesignDelegate.swift; sourceTree = "<group>"; };
+		F40BB26927E31C63009F2861 /* AA_StyleCCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AA_StyleCCell.swift; sourceTree = "<group>"; };
+		F40BB26B27E42D84009F2861 /* B_ScrollingCollectionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B_ScrollingCollectionCell.swift; sourceTree = "<group>"; };
+		F40BB26D27E42E01009F2861 /* A_StyleScrollingCollectionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = A_StyleScrollingCollectionCell.swift; sourceTree = "<group>"; };
+		F4228F6227DF226800FA324F /* A_ScrollingCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = A_ScrollingCollectionViewCell.swift; sourceTree = "<group>"; };
+		F4228F6427DF277000FA324F /* ViewModelCCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelCCell.swift; sourceTree = "<group>"; };
+		F4228F6627DF299B00FA324F /* TempData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = TempData.json; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.json; };
+		F4228F6827DF387F00FA324F /* HeaderCollectionViewSuplimentry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderCollectionViewSuplimentry.swift; sourceTree = "<group>"; };
+		F4228F6C27DFF77800FA324F /* TabBarViewCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewCollection.swift; sourceTree = "<group>"; };
+		F4228F6E27DFF95400FA324F /* TabBarCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarCollectionViewCell.swift; sourceTree = "<group>"; };
+		F4228F7027E0102200FA324F /* SliderPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderPageView.swift; sourceTree = "<group>"; };
+		F4228F7227E09AEE00FA324F /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		F4228F8727E1CAF500FA324F /* Services.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services.swift; sourceTree = "<group>"; };
+		F4228F8927E1E2D600FA324F /* Initialize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initialize.swift; sourceTree = "<group>"; };
+		F482326427DED92B00FA8B20 /* UIFontExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIFontExtension.swift; sourceTree = "<group>"; };
+		F482326627DED9B000FA8B20 /* Aspira Demi.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Aspira Demi.otf"; sourceTree = "<group>"; };
+		F482326827DEDA5C00FA8B20 /* Aspira Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Aspira Bold.otf"; sourceTree = "<group>"; };
+		F482326A27DEDA9100FA8B20 /* Aspira Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Aspira Regular.otf"; sourceTree = "<group>"; };
+		F482326B27DEDA9100FA8B20 /* Aspira Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Aspira Light.otf"; sourceTree = "<group>"; };
+		F482326C27DEDA9100FA8B20 /* Aspira Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Aspira Thin.otf"; sourceTree = "<group>"; };
+		F482326D27DEDA9100FA8B20 /* Aspira Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Aspira Medium.otf"; sourceTree = "<group>"; };
+		F482327227DEE03200FA8B20 /* A_StyleCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = A_StyleCollectionViewCell.swift; sourceTree = "<group>"; };
+		F482327427DEE06000FA8B20 /* B_StyleCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B_StyleCollectionViewCell.swift; sourceTree = "<group>"; };
+		F482327627DEE07100FA8B20 /* C_StyleCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C_StyleCollectionViewCell.swift; sourceTree = "<group>"; };
+		F4AE34D027DC7D5400AC9D05 /* IntExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntExtension.swift; sourceTree = "<group>"; };
+		F4AE34D227DC7EF100AC9D05 /* ViewModelDashboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelDashboard.swift; sourceTree = "<group>"; };
 		F4CB01B227D92F01002D15BD /* EntertainmentApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EntertainmentApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4CB01B527D92F01002D15BD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4CB01B727D92F01002D15BD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +109,14 @@
 		F4CB01D227D92F08002D15BD /* EntertainmentAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EntertainmentAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4CB01D627D92F08002D15BD /* EntertainmentAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntertainmentAppUITests.swift; sourceTree = "<group>"; };
 		F4CB01D827D92F08002D15BD /* EntertainmentAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntertainmentAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F4CB01F227D931F5002D15BD /* UIColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorExtension.swift; sourceTree = "<group>"; };
+		F4CB01FA27D9348E002D15BD /* BaseCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseCollectionViewCell.swift; sourceTree = "<group>"; };
+		F4CB01FC27D934B1002D15BD /* BaseTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseTableViewCell.swift; sourceTree = "<group>"; };
+		F4CB01FE27D934F1002D15BD /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		F4CC264A27DCEB8A004A7BEB /* ButtonTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonTabBar.swift; sourceTree = "<group>"; };
+		F4CC264C27DD0C3B004A7BEB /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
+		F4CC264E27DDC26E004A7BEB /* UIViewCustom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewCustom.swift; sourceTree = "<group>"; };
+		F4CC265027DE49F2004A7BEB /* LabelCustom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelCustom.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +144,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F482326327DED8D700FA8B20 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				F482326827DEDA5C00FA8B20 /* Aspira Bold.otf */,
+				F482326627DED9B000FA8B20 /* Aspira Demi.otf */,
+				F482326D27DEDA9100FA8B20 /* Aspira Medium.otf */,
+				F482326A27DEDA9100FA8B20 /* Aspira Regular.otf */,
+				F482326B27DEDA9100FA8B20 /* Aspira Light.otf */,
+				F482326C27DEDA9100FA8B20 /* Aspira Thin.otf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
 		F4CB01A927D92F00002D15BD = {
 			isa = PBXGroup;
 			children = (
@@ -101,7 +182,12 @@
 			children = (
 				F4CB01B527D92F01002D15BD /* AppDelegate.swift */,
 				F4CB01B727D92F01002D15BD /* SceneDelegate.swift */,
-				F4CB01B927D92F01002D15BD /* ViewController.swift */,
+				F4CB01F727D933C2002D15BD /* Stores */,
+				F4228F6627DF299B00FA324F /* TempData.json */,
+				F4CB01EC27D9308B002D15BD /* UIComponentCustom */,
+				F4CB01EB27D93059002D15BD /* API */,
+				F4CB01E927D92FE0002D15BD /* Helpers */,
+				F4CB01F427D9320D002D15BD /* AppModules */,
 				F4CB01BB27D92F01002D15BD /* Main.storyboard */,
 				F4CB01BE27D92F08002D15BD /* Assets.xcassets */,
 				F4CB01C027D92F08002D15BD /* LaunchScreen.storyboard */,
@@ -125,6 +211,174 @@
 				F4CB01D827D92F08002D15BD /* EntertainmentAppUITestsLaunchTests.swift */,
 			);
 			path = EntertainmentAppUITests;
+			sourceTree = "<group>";
+		};
+		F4CB01E527D92F60002D15BD /* Dashboard */ = {
+			isa = PBXGroup;
+			children = (
+				F4CB01F627D93271002D15BD /* Protocol */,
+				F4CB01F527D93267002D15BD /* Service */,
+				F4CB01E827D92FC3002D15BD /* Model */,
+				F4CB01E727D92FB5002D15BD /* View */,
+				F4CB01E627D92FA1002D15BD /* ViewModel */,
+			);
+			path = Dashboard;
+			sourceTree = "<group>";
+		};
+		F4CB01E627D92FA1002D15BD /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				F4AE34D227DC7EF100AC9D05 /* ViewModelDashboard.swift */,
+				F4228F6427DF277000FA324F /* ViewModelCCell.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		F4CB01E727D92FB5002D15BD /* View */ = {
+			isa = PBXGroup;
+			children = (
+				F4CB01EE27D930E8002D15BD /* Views */,
+				F4CB01ED27D930C9002D15BD /* ViewControllers */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		F4CB01E827D92FC3002D15BD /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F4228F7227E09AEE00FA324F /* ModelData.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		F4CB01E927D92FE0002D15BD /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				F4CB01F127D931A1002D15BD /* Extension */,
+				F4CC264C27DD0C3B004A7BEB /* ViewModel.swift */,
+				F4228F8927E1E2D600FA324F /* Initialize.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		F4CB01EB27D93059002D15BD /* API */ = {
+			isa = PBXGroup;
+			children = (
+				F4228F8727E1CAF500FA324F /* Services.swift */,
+			);
+			path = API;
+			sourceTree = "<group>";
+		};
+		F4CB01EC27D9308B002D15BD /* UIComponentCustom */ = {
+			isa = PBXGroup;
+			children = (
+				F4CB01FE27D934F1002D15BD /* BaseViewController.swift */,
+				F4CB01F927D9344B002D15BD /* UIViews */,
+				F4CB01F827D93436002D15BD /* UICells */,
+			);
+			path = UIComponentCustom;
+			sourceTree = "<group>";
+		};
+		F4CB01ED27D930C9002D15BD /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				F4CB01B927D92F01002D15BD /* ViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		F4CB01EE27D930E8002D15BD /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F4CB01F027D93133002D15BD /* UIViews */,
+				F4CB01EF27D93105002D15BD /* UICells */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		F4CB01EF27D93105002D15BD /* UICells */ = {
+			isa = PBXGroup;
+			children = (
+				F4228F6E27DFF95400FA324F /* TabBarCollectionViewCell.swift */,
+				F4228F6827DF387F00FA324F /* HeaderCollectionViewSuplimentry.swift */,
+				F482327227DEE03200FA8B20 /* A_StyleCollectionViewCell.swift */,
+				F40BB26927E31C63009F2861 /* AA_StyleCCell.swift */,
+				F482327427DEE06000FA8B20 /* B_StyleCollectionViewCell.swift */,
+				F482327627DEE07100FA8B20 /* C_StyleCollectionViewCell.swift */,
+				F4228F6227DF226800FA324F /* A_ScrollingCollectionViewCell.swift */,
+				F40BB26D27E42E01009F2861 /* A_StyleScrollingCollectionCell.swift */,
+				F40BB26B27E42D84009F2861 /* B_ScrollingCollectionCell.swift */,
+			);
+			path = UICells;
+			sourceTree = "<group>";
+		};
+		F4CB01F027D93133002D15BD /* UIViews */ = {
+			isa = PBXGroup;
+			children = (
+				F4228F6C27DFF77800FA324F /* TabBarViewCollection.swift */,
+				F4228F7027E0102200FA324F /* SliderPageView.swift */,
+			);
+			path = UIViews;
+			sourceTree = "<group>";
+		};
+		F4CB01F127D931A1002D15BD /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				F4CB01F227D931F5002D15BD /* UIColorExtension.swift */,
+				F4AE34D027DC7D5400AC9D05 /* IntExtension.swift */,
+				F482326427DED92B00FA8B20 /* UIFontExtension.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		F4CB01F427D9320D002D15BD /* AppModules */ = {
+			isa = PBXGroup;
+			children = (
+				F4CB01E527D92F60002D15BD /* Dashboard */,
+			);
+			path = AppModules;
+			sourceTree = "<group>";
+		};
+		F4CB01F527D93267002D15BD /* Service */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		F4CB01F627D93271002D15BD /* Protocol */ = {
+			isa = PBXGroup;
+			children = (
+				F40BB26727E2A75C009F2861 /* CellDesignDelegate.swift */,
+			);
+			path = Protocol;
+			sourceTree = "<group>";
+		};
+		F4CB01F727D933C2002D15BD /* Stores */ = {
+			isa = PBXGroup;
+			children = (
+				F482326327DED8D700FA8B20 /* Fonts */,
+			);
+			path = Stores;
+			sourceTree = "<group>";
+		};
+		F4CB01F827D93436002D15BD /* UICells */ = {
+			isa = PBXGroup;
+			children = (
+				F4CB01FA27D9348E002D15BD /* BaseCollectionViewCell.swift */,
+				F4CB01FC27D934B1002D15BD /* BaseTableViewCell.swift */,
+			);
+			path = UICells;
+			sourceTree = "<group>";
+		};
+		F4CB01F927D9344B002D15BD /* UIViews */ = {
+			isa = PBXGroup;
+			children = (
+				F4CC264A27DCEB8A004A7BEB /* ButtonTabBar.swift */,
+				F4CC264E27DDC26E004A7BEB /* UIViewCustom.swift */,
+				F4CC265027DE49F2004A7BEB /* LabelCustom.swift */,
+			);
+			path = UIViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,9 +485,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F482326F27DEDA9100FA8B20 /* Aspira Light.otf in Resources */,
+				F4228F6727DF299B00FA324F /* TempData.json in Resources */,
+				F482327127DEDA9100FA8B20 /* Aspira Medium.otf in Resources */,
+				F482327027DEDA9100FA8B20 /* Aspira Thin.otf in Resources */,
 				F4CB01C227D92F08002D15BD /* LaunchScreen.storyboard in Resources */,
+				F482326727DED9B000FA8B20 /* Aspira Demi.otf in Resources */,
 				F4CB01BF27D92F08002D15BD /* Assets.xcassets in Resources */,
+				F482326927DEDA5C00FA8B20 /* Aspira Bold.otf in Resources */,
 				F4CB01BD27D92F01002D15BD /* Main.storyboard in Resources */,
+				F482326E27DEDA9100FA8B20 /* Aspira Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,9 +519,36 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4CB01FB27D9348E002D15BD /* BaseCollectionViewCell.swift in Sources */,
+				F4228F6527DF277000FA324F /* ViewModelCCell.swift in Sources */,
+				F4228F6F27DFF95400FA324F /* TabBarCollectionViewCell.swift in Sources */,
+				F482327527DEE06000FA8B20 /* B_StyleCollectionViewCell.swift in Sources */,
+				F482327327DEE03200FA8B20 /* A_StyleCollectionViewCell.swift in Sources */,
+				F4228F8A27E1E2D600FA324F /* Initialize.swift in Sources */,
+				F4228F7327E09AEF00FA324F /* ModelData.swift in Sources */,
+				F4AE34D327DC7EF100AC9D05 /* ViewModelDashboard.swift in Sources */,
+				F482327727DEE07100FA8B20 /* C_StyleCollectionViewCell.swift in Sources */,
+				F40BB26A27E31C63009F2861 /* AA_StyleCCell.swift in Sources */,
 				F4CB01BA27D92F01002D15BD /* ViewController.swift in Sources */,
+				F4CC264D27DD0C3B004A7BEB /* ViewModel.swift in Sources */,
+				F4228F8827E1CAF600FA324F /* Services.swift in Sources */,
 				F4CB01B627D92F01002D15BD /* AppDelegate.swift in Sources */,
+				F40BB26827E2A75C009F2861 /* CellDesignDelegate.swift in Sources */,
 				F4CB01B827D92F01002D15BD /* SceneDelegate.swift in Sources */,
+				F4228F7127E0102200FA324F /* SliderPageView.swift in Sources */,
+				F4CB01FD27D934B1002D15BD /* BaseTableViewCell.swift in Sources */,
+				F4AE34D127DC7D5400AC9D05 /* IntExtension.swift in Sources */,
+				F4228F6927DF387F00FA324F /* HeaderCollectionViewSuplimentry.swift in Sources */,
+				F40BB26C27E42D84009F2861 /* B_ScrollingCollectionCell.swift in Sources */,
+				F4CC264B27DCEB8A004A7BEB /* ButtonTabBar.swift in Sources */,
+				F4CC264F27DDC26E004A7BEB /* UIViewCustom.swift in Sources */,
+				F482326527DED92B00FA8B20 /* UIFontExtension.swift in Sources */,
+				F4CB01FF27D934F1002D15BD /* BaseViewController.swift in Sources */,
+				F4CB01F327D931F5002D15BD /* UIColorExtension.swift in Sources */,
+				F4228F6327DF226800FA324F /* A_ScrollingCollectionViewCell.swift in Sources */,
+				F4CC265127DE49F2004A7BEB /* LabelCustom.swift in Sources */,
+				F4228F6D27DFF77800FA324F /* TabBarViewCollection.swift in Sources */,
+				F40BB26E27E42E01009F2861 /* A_StyleScrollingCollectionCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -367,7 +655,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -422,7 +710,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
